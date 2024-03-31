@@ -13,7 +13,7 @@ A função `setup()` inicializa o M5Cardputer e configura a comunicação serial
 
 ## Loop Principal
 
-A função `loop()` lê continuamente os dados do módulo GPS e atualiza o display. Se o botão A no M5Cardputer for pressionado, o display é limpo.
+A função `loop()` lê continuamente os dados do módulo GPS e atualiza o display. Se o BtnGo no M5Cardputer for pressionado, o display é limpo.
 
 ## Funções
 
